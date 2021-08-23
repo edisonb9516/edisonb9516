@@ -1,0 +1,14 @@
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\bin\Debug\netcoreapp3.1\M1HW2_Edison.exe
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\bin\Debug\netcoreapp3.1\M1HW2_Edison.deps.json
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\bin\Debug\netcoreapp3.1\M1HW2_Edison.runtimeconfig.json
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\bin\Debug\netcoreapp3.1\M1HW2_Edison.runtimeconfig.dev.json
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\bin\Debug\netcoreapp3.1\M1HW2_Edison.dll
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\bin\Debug\netcoreapp3.1\M1HW2_Edison.pdb
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\obj\Debug\netcoreapp3.1\M1HW2_Edison.csproj.AssemblyReference.cache
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\obj\Debug\netcoreapp3.1\M1HW2_Edison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\obj\Debug\netcoreapp3.1\M1HW2_Edison.AssemblyInfoInputs.cache
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\obj\Debug\netcoreapp3.1\M1HW2_Edison.AssemblyInfo.cs
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\obj\Debug\netcoreapp3.1\M1HW2_Edison.csproj.CoreCompileInputs.cache
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\obj\Debug\netcoreapp3.1\M1HW2_Edison.dll
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\obj\Debug\netcoreapp3.1\M1HW2_Edison.pdb
+C:\Users\bedis\source\repos\KineticEnergy\M1HW2_Edison\obj\Debug\netcoreapp3.1\M1HW2_Edison.genruntimeconfig.cache

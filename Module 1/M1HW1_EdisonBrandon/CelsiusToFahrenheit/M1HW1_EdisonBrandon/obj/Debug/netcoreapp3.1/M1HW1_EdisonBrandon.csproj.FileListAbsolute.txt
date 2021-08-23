@@ -1,0 +1,14 @@
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\bin\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.exe
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\bin\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.deps.json
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\bin\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.runtimeconfig.json
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\bin\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.runtimeconfig.dev.json
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\bin\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.dll
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\bin\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.pdb
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\obj\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.csproj.AssemblyReference.cache
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\obj\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\obj\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.AssemblyInfoInputs.cache
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\obj\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.AssemblyInfo.cs
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\obj\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.csproj.CoreCompileInputs.cache
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\obj\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.dll
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\obj\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.pdb
+C:\Users\bedis\source\repos\CelsiusToFahrenheit\M1HW1_EdisonBrandon\obj\Debug\netcoreapp3.1\M1HW1_EdisonBrandon.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M1HW1_EdisonBrandon/1.0.0": {
+        "runtime": {
+          "M1HW1_EdisonBrandon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M1HW1_EdisonBrandon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
